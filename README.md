@@ -10,11 +10,11 @@
 
 ### Skills:
 
-- 📐 HTML and CSS
-- 📜 JS
-- 🗄️ MySQL
-- 📋 C++, PHP, Python
-- 🌐 English language (intermediate)
+- 📐 HTML, CSS, JS
+- 📜 React
+- 🗄️ A little bit of PHP, MySQL, C++ and Python 
+- 🌐 Russian language (Native)
+- 🌐 English language (Intermediate)
 
 ### Contacts:
 
