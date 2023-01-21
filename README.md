@@ -3,7 +3,7 @@
 ### About me:
 
 - 👦 Ivan
-- 📅 20
+- 📅 21
 - 📍 Russia
 - 👨‍ 💻 Frontend web developer
 - 🐈 I love cats!
