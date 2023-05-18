@@ -11,10 +11,11 @@
 ### Skills:
 
 - 📐 HTML, CSS, JS
-- 📜 React
+- 📜 Vue (2/3), Nuxt
+- 🗂️ Wordpress, Bitrix
 - 🗄️ A little bit of PHP, MySQL, C++ and Python 
 - 🌐 Russian language (Native)
-- 🌐 English language (Intermediate)
+- 🌐 English language (Advanced)
 
 ### Contacts:
 
