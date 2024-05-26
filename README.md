@@ -20,4 +20,5 @@
 ### Contacts:
 
 - [↗️ Telegram](https://t.me/gnegovski)
-- [🖧 Vk](https://vk.com/ivan_h0e)
+- [🖧 Vk](https://vk.com/babule_kh)
+- [🧑🏻‍💼LinkedIn](https://www.linkedin.com/in/babulekh/)
