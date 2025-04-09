@@ -3,7 +3,7 @@
 ### About me:
 
 - 👦 Ivan
-- 📅 22
+- 📅 23
 - 📍 Russia
 - 👨‍ 💻 Frontend web developer
 - 🐈 I love cats!
@@ -11,14 +11,15 @@
 ### Skills:
 
 - 📐 HTML, CSS, JS
-- 📜 Vue (2/3), Nuxt
+- 📜 Vue (2/3), Nuxt, Typescript
 - 🗂️ Wordpress, Bitrix
 - 🗄️ A little bit of PHP, MySQL, C++ and Python 
 - 🌐 Russian language (Native)
 - 🌐 English language (Advanced)
+- 🌐 Serbian language (Begginer)
 
 ### Contacts:
 
 - [↗️ Telegram](https://t.me/gnegovski)
 - [🖧 Vk](https://vk.com/babule_kh)
-- [🧑🏻‍💼LinkedIn](https://www.linkedin.com/in/babulekh/)
+- [🧑🏻‍💼LinkedIn](https://www.linkedin.com/in/iderevianko/)
