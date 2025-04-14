@@ -20,6 +20,6 @@
 
 ### Contacts:
 
-- [↗️ Telegram](https://t.me/gnegovski)
+- [↗️ Telegram](https://t.me/Babule_kh)
 - [🖧 Vk](https://vk.com/babule_kh)
 - [🧑🏻‍💼LinkedIn](https://www.linkedin.com/in/iderevianko/)
