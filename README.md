@@ -4,7 +4,7 @@
 
 - 👦 Ivan
 - 📅 23
-- 📍 Russia
+- 🇷🇸 Belgrade
 - 👨‍ 💻 Frontend web developer
 - 🐈 I love cats!
 
